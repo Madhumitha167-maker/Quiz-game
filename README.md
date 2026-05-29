@@ -20,10 +20,3 @@ This project asks multiple-choice questions and calculates the final score of th
 
 ---
 
-## Project Structure 📁
-
-```text
-Quiz-Game/
-│
-├── main.py
-└── README.md
